@@ -17,7 +17,7 @@ To install the theme first download and install [BetterDiscord](https://betterdi
  
 Unzip the file you downloaded, relaunch Discord, and head into the settings. Scroll down until you see the ["Themes" tab](https://i.ibb.co/3Yf1MZc/Screenshot-784.png) and click on it. Click on the "Open theme folder" button and just drag and drop the "lilypichuEdit.theme.css" file from the zip you've downloaded into the folder that opened. 
 
-Lastly, just press the slider, seen below in the top right corner of the image, on the new module that was added into your themes tab and the theme should be enabled!
+Lastly, make sure that you enabled Light mode in the "Appearance" tab in your settings and just press the slider, seen below in the top right corner of the image, on the new module that was added into your themes tab and the theme should be enabled!
 
 ![](https://i.ibb.co/k9c9FJk/unknown2.png)
 
