@@ -52,6 +52,7 @@
   --deprecated-quickswitcher-input-background: var(--background-primary);
 }
 
+
 ::selection {
   background: rgba(255, 244, 189, 0.507);
 }
