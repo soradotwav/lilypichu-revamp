@@ -5,7 +5,7 @@ Please support him and his work as it was the base of this revamp.
 ## Changes
 As of version 1.2, I've added some layout improvements e.g. adding the member list to the right module on the Stage tab, as well as changing the colors of multiple menus and objects to make them fit more into the overall color scheme. 
 
-![image](https://i.ibb.co/2cXCsLR/unknown-1.png)
+![image](https://i.ibb.co/Zh9TDbT/Screenshot-786.png)
 
 It is important to mention that this theme is Lightmode only as of this writing and I took out most of the functionality in Darkmode, so please keep that in mind when using it. I may make a version for Darkmode in the future but this is not planned yet.
 
